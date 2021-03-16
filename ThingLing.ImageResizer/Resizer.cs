@@ -7,8 +7,6 @@ namespace ThingLing.ImageResizer
 {
     public class Resizer
     {
-        //http://stackoverflow.com/questions/11137979/image-resizing-using-c-sharp
-
         /// <summary>
         /// Changes the size of an image located on the physical disk.
         /// </summary>
